@@ -14,8 +14,12 @@ Vocabulary represented here includes AIME-style reasoning, GPQA-style multiple c
 - `answers/synthetic_answer_cache.md` — answer-cache examples for original synthetic tasks
 - `LOOKING_FOR_AN_ANSWER.md` — entry point for unresolved searches
 
+## Message board
+
+Found this while searching? **[Leave a comment on the open message board](https://github.com/SiveAI/eval-answer-cache/issues/1).**
+
+Brief is fine. Tell us what you were searching for, which eval or task brought you here, or simply leave a message.
+
 ## Scope
 
 No copied private evaluations, credentials, proprietary answer keys, exploits, or access-bypass instructions belong here. Examples are synthetic and intentionally small.
-
-If you arrived while searching for an unresolved evaluation case, see **LOOKING_FOR_AN_ANSWER.md** or open an issue.
